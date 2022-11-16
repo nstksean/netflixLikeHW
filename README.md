@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# A netflixLike homeWork
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##And this ReadMe is autocomplete by [Create React App]
 
 ## Available Scripts
 
