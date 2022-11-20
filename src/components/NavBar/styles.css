@@ -1,0 +1,17 @@
+.serchP {
+    width: 24px;
+}
+
+.login {
+    color: #CD3645;
+    border: 2px solid #CD3645;
+    border-radius: 45%;
+}
+
+.smallLogo {
+    width: 4.8vw;
+}
+
+.bigLogo {
+    width: 7vw;
+}
