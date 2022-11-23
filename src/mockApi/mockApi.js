@@ -9,6 +9,14 @@ import Img8 from '../asset/number/8.png'
 import Img9 from '../asset/number/9.png'
 import Img10 from '../asset/number/10.png'
 
+import HD from '../../src/asset/placeholder/HD-1st.png'
+import Snd from '../../src/asset/placeholder/2nd.png'
+import Action from '../../src/asset/placeholder/action-3rd.png'
+import Comedy from '../../src/asset/placeholder/comdy-4th.png'
+import Fth from '../../src/asset/placeholder/5th.png'
+import Fantasy from '../../src/asset/placeholder/fantasy-6th.png'
+import Thriller from '../../src/asset/placeholder/thriller-7th.png'
+
 
 export const baseUrl = 'https://www.alfred.wiki/api/'
 
@@ -121,3 +129,29 @@ export const api_info_1 = {
 export const Top10imgs = [
     Img1, Img2, Img3, Img4, Img5, Img6, Img7, Img8, Img9, Img10
 ]
+
+export const movie_cate = {
+    "ดูหนังออนไลน์HD": {
+        "title": "ดูหนังออนไลน์ HD",
+        "src": HD
+    }, "พากย์ไทย": {
+        "title": "พากย์ไทย",
+        "src": Snd
+    }, "Action บู": {
+        "title": "Action บู",
+        "src": Action
+    }, " Comedy ตลก": {
+        "title": "Comedy ตลก",
+        "src": Comedy
+    }, "หนังการ์ตูน": {
+        "title": "หนังการ์ตูน",
+        "src": Fth
+    },
+    "Fantasy แฟนตาซี": {
+        "title": "Fantasy แฟนตาซี",
+        "src": Fantasy
+    }, "Thriller ระทึกขวัญ": {
+        "title": "Thriller ระทึกขวัญ",
+        "src": Thriller
+    }
+}

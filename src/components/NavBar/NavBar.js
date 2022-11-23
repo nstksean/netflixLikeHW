@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import serachP from '../../asset/search.webp'
 import bigLogo from "../../asset/sawadika_500_250.png"
 import smallLogo from "../../asset/sawadika_300_80.png"
-import "./styles.css"
+import "./NavBar.css"
 
 function NavBar() {
     const navWords = [`หนังฝรั่ง`, `หนังไทย`, `หนังเกาหลี`, `หนังญี่ปุ่น`, `หนังจีน`]

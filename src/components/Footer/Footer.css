@@ -1,0 +1,12 @@
+.Footer {
+    justify-content: space-between;
+
+}
+
+.FooterBTNContainer {
+    width: 60%
+}
+
+.footerText {
+    color: aliceblue;
+}

@@ -6,11 +6,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+// import required modules
+import { Pagination, Navigation } from "swiper";
 
 import "./Top10Carousl.css";
 import { api_recomm, Top10imgs } from "../../mockApi/mockApi"
-// import required modules
-import { Pagination, Navigation } from "swiper";
+
 
 
 export default function Top10Carousl(api_recomm) {
@@ -33,7 +34,9 @@ export default function Top10Carousl(api_recomm) {
             >
                 {Array.from(Top10imgs).map((img) =>
                     <SwiperSlide>
-                        <img src={img}></img>
+                        <div className="imgContainer">
+                            <img src={img} />
+                        </div>
                         <div className="textbox">{title}</div>
                     </SwiperSlide>)
                 }

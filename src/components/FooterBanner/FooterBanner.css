@@ -1,0 +1,11 @@
+.FooterBanner {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.FBlogin {
+    color: #CD3645;
+    border: 2px solid #CD3645;
+    border-radius: 40%;
+}

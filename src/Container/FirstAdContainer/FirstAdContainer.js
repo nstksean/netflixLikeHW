@@ -1,12 +1,10 @@
 import Container from 'react-bootstrap/Container';
-import ImgCard from '../components/ImgCard/ImgCard';
+import ImgCard from '../../components/ImgCard/ImgCard';
 import './FirstAdContainer.css'
-import { api_info_1 } from '../mockApi/mockApi'
+import { api_info_1 } from '../../mockApi/mockApi'
 
 export default function FirstAdContainer() {
   const datas = api_info_1.data
-  console.log(datas)
-  console.log(datas[0].adFig.src)
 
   return (
     <div className="container FirstAdContainer">
