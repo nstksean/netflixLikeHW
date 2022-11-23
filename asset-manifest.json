@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netflixLikeHW/static/css/main.a2a2145a.css",
+    "main.js": "/netflixLikeHW/static/js/main.51fe9ede.js",
+    "static/js/787.ae39c41d.chunk.js": "/netflixLikeHW/static/js/787.ae39c41d.chunk.js",
+    "static/media/fantasy-6th.png": "/netflixLikeHW/static/media/fantasy-6th.fb51fb30774db4a249a8.png",
+    "static/media/HD-1st.png": "/netflixLikeHW/static/media/HD-1st.1a7f545242e85e8f1dd0.png",
+    "static/media/thriller-7th.png": "/netflixLikeHW/static/media/thriller-7th.5e25442bcf5896b732f3.png",
+    "static/media/comdy-4th.png": "/netflixLikeHW/static/media/comdy-4th.616b4196576aaaad01e0.png",
+    "static/media/5th.png": "/netflixLikeHW/static/media/5th.690abb94e690aefb53ff.png",
+    "static/media/action-3rd.png": "/netflixLikeHW/static/media/action-3rd.732067e509d75c4c87f4.png",
+    "static/media/2nd.png": "/netflixLikeHW/static/media/2nd.914b3dad4958e3367657.png",
+    "index.html": "/netflixLikeHW/index.html",
+    "static/media/search.webp": "/netflixLikeHW/static/media/search.ed30fc842884013dbcf6.webp",
+    "main.a2a2145a.css.map": "/netflixLikeHW/static/css/main.a2a2145a.css.map",
+    "main.51fe9ede.js.map": "/netflixLikeHW/static/js/main.51fe9ede.js.map",
+    "787.ae39c41d.chunk.js.map": "/netflixLikeHW/static/js/787.ae39c41d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a2145a.css",
+    "static/js/main.51fe9ede.js"
+  ]
+}
